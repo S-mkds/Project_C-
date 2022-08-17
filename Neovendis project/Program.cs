@@ -22,7 +22,7 @@ namespace Project_Neovendis// Note: actual namespace depends on the project name
 
             // Product List StoreItemId
 
-            //String id_ =	" " + " D: , H: , W: ";
+            //String id_ =	" " + " D: , H: , W: "; D=p H=H = L=W
 
             String id_205 = "NUTELLA VERRE 200G " + " D: 79, H: 90, W: 79";
             String id_207 = "SUNDY BARRE 36G " + " D: 133, H: 25, W: 40";
@@ -58,32 +58,32 @@ namespace Project_Neovendis// Note: actual namespace depends on the project name
 
             try
             {
-                Console.WriteLine("Le produit id_205 " + id_205 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_207 " + id_207 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_214 " + id_214 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_215 " + id_215 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_216 " + id_216 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_222 " + id_222 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_236 " + id_236 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_249 " + id_249 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_251 " + id_251 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_252 " + id_252 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_257 " + id_257 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_260 " + id_260 + " doit être placé dans le sens " + first_direction);
+                Console.WriteLine("Le produit id_205 " + id_205 + " doit être placé dans le sens " + second_direction);
+                Console.WriteLine("Le produit id_207 " + id_207 + " doit être placé dans le sens " + third_direction);
+                Console.WriteLine("Le produit id_214 " + id_214 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_215 " + id_215 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_216 " + id_216 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_222 " + id_222 + " doit être placé dans le sens " + sixth_direction);
+                Console.WriteLine("Le produit id_236 " + id_236 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_249 " + id_249 + " doit être placé dans le sens " + fourth_direction);
+                Console.WriteLine("Le produit id_251 " + id_251 + " doit être placé dans le sens " + fourth_direction);
+                Console.WriteLine("Le produit id_252 " + id_252 + " doit être placé dans le sens " + sixth_direction);
+                Console.WriteLine("Le produit id_257 " + id_257 + " doit être placé dans le sens " + fifth_direction); 
+                Console.WriteLine("Le produit id_260 " + id_260 + " doit être placé dans le sens " + fifth_direction);
                 Console.WriteLine("Le produit id_261 " + id_261 + " doit être placé dans le sens " + first_direction);
                 Console.WriteLine("Le produit id_262 " + id_262 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_265 " + id_265 + " doit être placé dans le sens " + first_direction);
+                Console.WriteLine("Le produit id_265 " + id_265 + " doit être placé dans le sens " + fifth_direction);
                 Console.WriteLine("Le produit id_268 " + id_268 + " doit être placé dans le sens " + first_direction);
                 Console.WriteLine("Le produit id_269 " + id_269 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_270 " + id_270 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_278 " + id_278 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_281 " + id_281 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_287 " + id_287 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_292 " + id_292 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_293 " + id_293 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_295 " + id_295 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_302 " + id_302 + " doit être placé dans le sens " + first_direction);
-                Console.WriteLine("Le produit id_306 " + id_306 + " doit être placé dans le sens " + first_direction);
+                Console.WriteLine("Le produit id_270 " + id_270 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_278 " + id_278 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_281 " + id_281 + " doit être placé dans le sens " + fourth_direction);
+                Console.WriteLine("Le produit id_287 " + id_287 + " doit être placé dans le sens " + fourth_direction);
+                Console.WriteLine("Le produit id_292 " + id_292 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_293 " + id_293 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_295 " + id_295 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_302 " + id_302 + " doit être placé dans le sens " + fifth_direction);
+                Console.WriteLine("Le produit id_306 " + id_306 + " doit être placé dans le sens " + fifth_direction);
 
             }
             catch
