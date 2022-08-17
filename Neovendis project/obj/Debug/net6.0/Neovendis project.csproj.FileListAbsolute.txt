@@ -1,0 +1,15 @@
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.csproj.AssemblyReference.cache
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.AssemblyInfoInputs.cache
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.AssemblyInfo.cs
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.csproj.CoreCompileInputs.cache
+F:\Projet C#\Neovendis project\Neovendis project\bin\Debug\net6.0\Neovendis project.exe
+F:\Projet C#\Neovendis project\Neovendis project\bin\Debug\net6.0\Neovendis project.deps.json
+F:\Projet C#\Neovendis project\Neovendis project\bin\Debug\net6.0\Neovendis project.runtimeconfig.json
+F:\Projet C#\Neovendis project\Neovendis project\bin\Debug\net6.0\Neovendis project.dll
+F:\Projet C#\Neovendis project\Neovendis project\bin\Debug\net6.0\Neovendis project.pdb
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.dll
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\refint\Neovendis project.dll
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.pdb
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\Neovendis project.genruntimeconfig.cache
+F:\Projet C#\Neovendis project\Neovendis project\obj\Debug\net6.0\ref\Neovendis project.dll
